@@ -1,0 +1,13 @@
+2019-10-31 13:28:53: == Sync Started by Sync Only Command
+2019-10-31 13:28:53: Create Folder 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/input'
+2019-10-31 13:28:53: Create Folder 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/jars'
+2019-10-31 13:28:53: Create Folder 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/resources'
+2019-10-31 13:28:57: Copy New 'F:/Workplace/Eclipse/ProteinClassPrediction/bin/Hybrid_LBP_SMOTE.arff' -> 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/bin/Hybrid_LBP_SMOTE.arff' (95,487,892)
+2019-10-31 13:29:01: Copy New 'F:/Workplace/Eclipse/ProteinClassPrediction/ClassifyProtein.exe' -> 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/ClassifyProtein.exe' (52,574,655)
+2019-10-31 13:29:03: Copy New 'F:/Workplace/Eclipse/ProteinClassPrediction/ClassifyProtein.jar' -> 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/ClassifyProtein.jar' (52,501,439)
+2019-10-31 13:29:03: Copy New 'F:/Workplace/Eclipse/ProteinClassPrediction/input/TestDataset.csv' -> 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/input/TestDataset.csv' (23,618)
+2019-10-31 13:29:04: Copy New 'F:/Workplace/Eclipse/ProteinClassPrediction/jars/opencv-3.2.0-1.jar' -> 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/jars/opencv-3.2.0-1.jar' (65,752,623)
+2019-10-31 13:29:04: Copy New 'F:/Workplace/Eclipse/ProteinClassPrediction/jars/weka.jar' -> 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/jars/weka.jar' (11,025,147)
+2019-10-31 13:29:05: Copy New 'F:/Workplace/Eclipse/ProteinClassPrediction/resources/Hybrid_LBP_SMOTE.arff' -> 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/resources/Hybrid_LBP_SMOTE.arff' (95,487,892)
+2019-10-31 13:29:06: == Sync Complete. Time: 00:00:13, Speed: 27.3 MB/s, OK: 10, Errors: 0
+2019-10-31 13:29:06: 

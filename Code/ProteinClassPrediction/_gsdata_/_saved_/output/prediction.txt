@@ -1,0 +1,8 @@
+1  -->  All alpha proteins
+2  -->  All beta proteins
+3  -->  Alpha and beta proteins (a+b)
+4  -->  Membrane and cell surface proteins and peptides
+5  -->  Multi-domain proteins (alpha and beta)
+6  -->  Small proteins
+7  -->  Alpha and beta proteins (a/b)
+

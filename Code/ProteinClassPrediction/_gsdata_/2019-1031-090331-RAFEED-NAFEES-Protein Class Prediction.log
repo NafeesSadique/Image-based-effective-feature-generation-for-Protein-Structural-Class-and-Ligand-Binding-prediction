@@ -1,0 +1,6 @@
+2019-10-31 09:03:45: == Sync Started by Sync Only Command
+2019-10-31 09:03:46: Copy Over 'F:/Workplace/Eclipse/ProteinClassPrediction/bin/Hybrid_LBP_SMOTE.arff' -> 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/bin/Hybrid_LBP_SMOTE.arff' (95,487,892)
+2019-10-31 09:03:46: Copy Over 'F:/Workplace/Eclipse/ProteinClassPrediction/input/TestDataset.csv' -> 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/input/TestDataset.csv' (23,618)
+2019-10-31 09:03:47: Copy Over 'F:/Workplace/Eclipse/ProteinClassPrediction/resources/Hybrid_LBP_SMOTE.arff' -> 'F:/Thesis/GIT/Image-based-effective-feature-generation-for-protein-structural-class-and-ligand-binding-prediction/Code/ProteinClassPrediction/resources/Hybrid_LBP_SMOTE.arff' (95,487,892)
+2019-10-31 09:03:47: == Sync Complete. Time: 00:00:02, Speed: 91.0 MB/s, OK: 3, Errors: 0
+2019-10-31 09:03:47: 
